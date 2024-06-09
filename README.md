@@ -1,2 +1,2 @@
 # Embedded_diploma
-Embedded Systems Diploma With Keroles Shenouda / Learn In Depth
+Embedded systems diploma with keroles shenouda / Learn in depth
