@@ -1,6 +1,6 @@
 /*
  =============================================================================
- Name        : EX4_loop&condition.c
+ Name        : Ex4_loop&condition.c
  Author      : mahmoudkoutait
  Copyright   : Your copyright notice
  Description : Write a program to check whether a number positive or negative
