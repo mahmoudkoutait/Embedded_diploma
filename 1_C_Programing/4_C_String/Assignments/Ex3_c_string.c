@@ -17,6 +17,7 @@ int main()
 	printf("enter the string: ");
 	fflush(stdin);		fflush(stdout);
 	gets(string);
+	i=0;
 	j=strlen(string)-1;
 	while(i<j)
 	{
