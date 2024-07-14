@@ -23,6 +23,6 @@ void reverse_sentence()
 	if(c!='\n')
 	{
 		reverse_sentence();
-		printf("%c",c);
 	}
+		printf("%c",c);
 }
